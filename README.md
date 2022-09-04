@@ -1,4 +1,4 @@
 # TuneiT
 **Checkout**
 
-https://Srijan003.github.io//TuneiT
+https://srijan003.github.io/TuneiT/
